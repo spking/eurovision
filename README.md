@@ -4,4 +4,4 @@
 
 Files collecting data on the Eurovision Song Contest from 1975 to Present
 
-[Excel Spreadsheet](eurovision-points.xlsx)
+[Excel Spreadsheet](eurovision-points.xlsx) (download)
